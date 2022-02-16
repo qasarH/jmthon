@@ -6,8 +6,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qasarH
 0/jmthon)
 
-## شكـرا لكـم 
-
+## شكـرا لكـم
 
 ## المطـورين 
 
